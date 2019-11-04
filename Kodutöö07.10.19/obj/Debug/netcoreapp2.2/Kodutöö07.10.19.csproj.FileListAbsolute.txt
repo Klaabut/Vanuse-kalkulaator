@@ -1,0 +1,11 @@
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\bin\Debug\netcoreapp2.2\Kodutöö07.10.19.deps.json
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\bin\Debug\netcoreapp2.2\Kodutöö07.10.19.runtimeconfig.json
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\bin\Debug\netcoreapp2.2\Kodutöö07.10.19.runtimeconfig.dev.json
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\bin\Debug\netcoreapp2.2\Kodutöö07.10.19.dll
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\bin\Debug\netcoreapp2.2\Kodutöö07.10.19.pdb
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\obj\Debug\netcoreapp2.2\Kodutöö07.10.19.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\obj\Debug\netcoreapp2.2\Kodutöö07.10.19.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\obj\Debug\netcoreapp2.2\Kodutöö07.10.19.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\obj\Debug\netcoreapp2.2\Kodutöö07.10.19.AssemblyInfo.cs
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\obj\Debug\netcoreapp2.2\Kodutöö07.10.19.dll
+C:\Users\Karl\Desktop\VS\Kodutöö07.10.19\Kodutöö07.10.19\obj\Debug\netcoreapp2.2\Kodutöö07.10.19.pdb
